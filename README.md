@@ -16,10 +16,10 @@ You may also see any lint errors in the console.
 
 ## Dependencies
 
-npm install --save bootstrap
-npm install --save reactstrap react react-dom
-npm install react-router-dom
-npm install axios
+`npm install --save bootstrap`
+`npm install --save reactstrap react react-dom`
+`npm install react-router-dom`
+`npm install axios`
 
 ## Authors
 
