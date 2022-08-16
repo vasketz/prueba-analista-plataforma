@@ -1,0 +1,27 @@
+.div-news-app {
+    display: flex;
+    justify-content: center;
+}
+
+.div-news-items{
+    width: 500px;
+    padding: 20px;
+    border: 1px solid;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: white;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+
+.image-new {
+    width: 400px;
+
+}
+
+.next-page {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+

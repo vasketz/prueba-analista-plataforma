@@ -1,0 +1,20 @@
+.div-results {
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+}
+
+.div-articles {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 50px;
+    text-align: center;
+    box-shadow: 0 8px 13px 1px rgb(0 0 0 / 50%);
+}
+
+.div-authors {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 50px;
+    text-align: center;
+    box-shadow: 0 8px 13px 1px rgb(0 0 0 / 50%);
+}
